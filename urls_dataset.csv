@@ -1,0 +1,5 @@
+url,label
+http://google.com,0
+http://example-phish.com,1
+https://securebank.com,0
+http://dangerous-site.com,1
